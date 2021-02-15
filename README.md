@@ -34,7 +34,7 @@
 
 ### [홈 화면]
 
-![home](file:///Users/mac/Desktop/home.png)
+![home]<img width="1164" alt="home" src="https://user-images.githubusercontent.com/73734206/107911855-b827d200-6fa0-11eb-9196-68fba8ee1997.png">
 ---
 
 ### [티셔츠 타입으로 `필터링` 된 화면]
