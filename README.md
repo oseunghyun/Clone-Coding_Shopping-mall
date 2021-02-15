@@ -34,17 +34,17 @@
 
 ### [홈 화면]
 
-![home]<img width="900" alt="home" src="https://user-images.githubusercontent.com/73734206/107911855-b827d200-6fa0-11eb-9196-68fba8ee1997.png">
+<img width="500" alt="home" src="https://user-images.githubusercontent.com/73734206/107911855-b827d200-6fa0-11eb-9196-68fba8ee1997.png">
 ---
 
 ### [티셔츠 타입으로 `필터링` 된 화면]
 
-![tshirts]<img width="1197" alt="tshirts" src="https://user-images.githubusercontent.com/73734206/107912088-2ec4cf80-6fa1-11eb-8669-a308745fdc37.png">
+<img width="500" alt="tshirts" src="https://user-images.githubusercontent.com/73734206/107912088-2ec4cf80-6fa1-11eb-8669-a308745fdc37.png">
 ---
 
 ### [blue 컬러 타입으로 `필터링` 된 화면]
 
-![blue]<img width="1182" alt="blue" src="https://user-images.githubusercontent.com/73734206/107912201-6f244d80-6fa1-11eb-9b53-ed6999c1407d.png">
+<img width="500" alt="blue" src="https://user-images.githubusercontent.com/73734206/107912201-6f244d80-6fa1-11eb-9b53-ed6999c1407d.png">
 ---
 
 ## 느낀점
